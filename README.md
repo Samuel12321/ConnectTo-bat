@@ -3,6 +3,7 @@ Purpose:
 To Create an open source free Remote Desktop connection software with one click Connect To Remote Desktop, built in wake on lan and vpn support.
 Designed with buisiness with remote workers or IT proffesionals.
 
+it will have a one time setup and will not support multiple connections.
 
 To Do list:
 - Build app
