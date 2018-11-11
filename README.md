@@ -10,3 +10,11 @@ To Do list:
 - Add support for .rdp import
 - add vpn support
 - add first time setup
+
+
+Possibly helpfull repositories:
+- https://github.com/jasonpang/RemoteDesktop
+- https://github.com/basildane/WakeOnLAN
+- https://github.com/bentasker/Wake-On-Lan-Python
+- https://github.com/FreeRDP/FreeRDP
+- 
