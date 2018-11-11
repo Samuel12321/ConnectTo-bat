@@ -5,6 +5,8 @@ Designed with buisiness with remote workers or IT proffesionals.
 
 it will have a one time setup and will not support multiple connections.
 
+Will innitIALLY USE MICROSOFT rEMOTE DESKTOP to connect, then will be forked and inbvuilt aversion will be added
+
 To Do list:
 - Build app
 - Add wake on lan support
