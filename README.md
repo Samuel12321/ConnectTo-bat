@@ -1,23 +1,10 @@
-# Connect-To
+# Connect-To.bat
 Purpose:
-To Create an open source free Remote Desktop connection software with one click Connect To Remote Desktop, built in wake on lan and vpn support.
-Designed with buisiness with remote workers or IT proffesionals.
+To Create an open source free Remote Desktop automator, so after the first setup, the user only needs to click on this program to connect to a remote computer.
+Designed for buisiness with remote workers or IT profesionals.
 
-it will have a one time setup and will not support multiple connections.
+Designed for Windows computers, and has compatability check so will only run on Windows 7 up (excluding windows 8.0). This can be removed.
 
-Will innitIALLY USE MICROSOFT rEMOTE DESKTOP to connect, then will be forked and inbvuilt aversion will be added
+Similar purpose to app that i am trying to build here: https://github.com/Samuel12321/Connect-To except this program doesnt have a GUI and uses windows inbuilt tools instead of its own.
 
-To Do list:
-- Build app
-- Add wake on lan support
-- Add support for .rdp import
-- add vpn support
-- add first time setup
-
-
-Possibly helpfull repositories:
-- https://github.com/jasonpang/RemoteDesktop
-- https://github.com/basildane/WakeOnLAN
-- https://github.com/bentasker/Wake-On-Lan-Python
-- https://github.com/FreeRDP/FreeRDP
-- https://github.com/RealVNC
+Tool to convert to .exe: http://www.f2ko.de/apps/ob2e/
